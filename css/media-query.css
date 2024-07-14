@@ -1,0 +1,574 @@
+@media only screen and (max-width:1199px){
+nav{
+    flex: 0 0 52%;
+    max-width: 52%;
+}
+nav ul li{
+    margin-right: 15px;
+}
+.banner-text-1 h2 {
+    font-size: 40px;
+}
+.banner-text-1 h1 {
+    font-size: 66px;
+}
+.banner-text-1 p{
+    margin-top: 14px;
+}
+.banner-text-1 img{
+    width: 70%;
+}
+.banner-text-item h2{
+    width: 100%;
+}
+.download-item:last-child img{
+    width: 95%;
+}
+.client-row{
+    width: 61%;
+}
+.footer-item:first-child p {
+    width: 100%;
+}
+.footer-item:nth-child(2) p {
+    width: 100%;
+}
+.download-row{
+    width: 62%;
+}
+.download-text{
+    flex: 0 0 72%;
+    max-width: 72%;
+}
+.contact-row{
+    width: 91%;
+}
+}
+
+@media only screen and (max-width:991px){
+    nav{
+        display: none;
+    }
+    .toggle-btn {
+        display: block;
+        margin-top: 13px;
+    }
+    .banner-text-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+    }
+    .banner-text-1 img {
+        width: 100%;
+        margin-top: 235px;
+    }
+    .banner-text-item button{
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    .banner-text-item:last-child .book-cab{
+        margin: 0 auto;
+        float: none;
+    }
+    .book-item span{
+        width: 100%;
+    }
+    .book-cab button{
+        margin-left: 0;
+        width: 90%;
+    }
+    .tariff-item{
+        flex: 0 0 70%;
+        max-width: 70%;
+        margin: 0 auto;
+        margin-bottom: 150px;
+    }
+    .tariff-item h4 {
+        margin-top: 115px;
+    }
+    .tariff-taxi {
+        left: 70px;
+        width: 75%;
+    }
+    .tariffs .my-row {
+        margin-top: 170px;
+    }
+    .section-heading{
+        font-size: 34px;
+    }
+    .section-heading span{
+        font-size: 38px;
+    }
+    .wish-item{
+        flex: 0 0 70%;
+        max-width: 70%;
+        margin: 0 auto;
+        margin-bottom: 80px;
+        text-align: center;
+    }
+    .sub-wish-img, .sub-wish-text{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .sub-wish-img{
+        margin-bottom: 25px;
+    }
+    .wish button{
+        margin-top: 25px;
+    }
+    .download-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+    }
+    .download-item:last-child img {
+        width: 60%;
+        margin-top: 75px;
+        margin-left: 145px;
+    }
+    .review-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .client-row{
+        width: 100%;
+        justify-content: center;
+    }
+    .client-detail {
+        flex: 0 0 25%;
+        max-width: 25%;
+        margin-left: 0;
+    }
+    .client-img {
+        flex: 0 0 13%;
+        max-width: 13%;
+    }
+    .take-your-call h2{
+        font-size: 60px;
+    }
+    .take-your-call h3{
+        font-size: 25px;
+    }
+    .footer-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 70px;
+    }
+    .footer-item:first-child p {
+        width: 58%;
+    }
+    .footer-item:nth-child(2) p {
+        width: 47%;
+    }
+    .download-icon {
+        flex: 0 0 72%;
+        max-width: 72%;
+        cursor: pointer;
+    }
+    .download-text {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+    .contact-text {
+        flex: 0 0 93%;
+        max-width: 93%;
+        margin-bottom: 30px;
+    }
+    .contact-icon {
+        flex: 0 0 6%;
+        max-width: 6%;
+        padding-left: 10px;
+    }
+    #icon-1 {
+        padding-top: 0;
+    }
+}
+
+@media only screen and (max-width:767px){
+    .banner-text-1 h2 {
+        font-size: 32px;
+    }
+    .banner-text-1 h1 {
+        font-size: 55px;
+    }
+    .banner-text-1 p {
+        margin-top: 14px;
+    }
+    .banner-text-1 img {
+        width: 103%;
+        margin-top: 120px;
+    }
+    .banner-text-2 .my-row {
+        margin-top: 156px;
+    }
+    .tariff-item h4 {
+        margin-top: 70px;
+    }
+    .tariff-taxi {
+        left: 50px;
+    }
+    .wish {
+        background-position: 1013px 0;
+    }
+    .download-item:last-child img{
+        width: 71%;
+    }
+    .client-detail {
+        flex: 0 0 37%;
+        max-width: 37%;
+    }
+    .client-img {
+        flex: 0 0 19%;
+        max-width: 19%;
+    }
+    .take-your-call h2 {
+        font-size: 50px;
+    }
+    .take-your-call h3 {
+        font-size: 19px;
+    }
+    .footer-item:first-child p {
+        width: 80%;
+    }
+    .footer-item:nth-child(2) p {
+        width: 60%;
+    }
+    .download-icon {
+        flex: 0 0 62%;
+        max-width: 62%;
+    }
+    .download-text {
+        flex: 0 0 32%;
+        max-width: 32%;
+    }
+    .download-icon img {
+        width: 16px;
+    }
+    .contact-text{
+        flex: 0 0 89%;
+        max-width: 89%;
+    }
+}
+
+@media only screen and (max-width:480px){
+    .banner-text-1 img {
+        width: 100%;
+    }
+    .logo{
+        padding-left: 34px;
+    }
+    .banner-text-2 .my-row {
+        margin-top: 310px;
+    }
+    .banner-text-item h3 {
+        font-size: 27px;
+    }
+    .banner-text-item h2{
+        font-size: 32px;
+    }
+    .banner-text-item p {
+        line-height: 27px;
+        font-size: 14px;
+    }
+    .tariff-taxi {
+        width: 68%;
+        left: 76px;
+        top: -74px;
+    }
+    .tariff-item {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .tariff-item h4 {
+        margin-top: 90px;
+    }
+    .tariff-item h3{
+        margin-bottom: 50px;
+    }
+    .banner-text-1 p{
+        letter-spacing: 5px;
+    }
+    .banner-text-1 h1 {
+        font-size: 45px;
+    }
+    .book-item span{
+        margin-top: 0;
+    }
+    .banner-text-item:last-child .book-cab{
+        width: 95%;
+    }
+    .book-cab button{
+        font-size: 23px;
+    }
+    .toggle-nav{
+        width: 100%;
+    }
+    .wish {
+        background-position: 869px 0;
+    }
+    .wish-item{
+        flex: 0 0 90%;
+        max-width: 90%;
+    }
+    .section-heading{
+        font-size: 30px;
+    }
+    .section-heading span{
+        font-size: 35px;
+    }
+    .download-item:last-child img {
+        margin-top: 75px;
+        margin-left: 110px;
+    }
+    .download-item:first-child img{
+        width: 160px;
+    }
+    .download-item:first-child img:last-child{
+        margin-right: 0;
+    }
+    .client-detail {
+        text-align: left;
+        margin-left: 7px;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .client-detail h3{
+        font-size: 19px;
+    }
+    .client-detail h4{
+        font-size: 15px;
+    }
+    .review-item p{
+        font-size: 14px;
+    }
+    .client-img {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+    .take-your-call h3 {
+        font-size: 20px;
+    }
+    .take-your-call h2 {
+        font-size: 43px;
+    }
+    .footer-item p{
+        font-size: 15px;
+        line-height: 28px;
+    }
+    .footer-item:first-child p {
+        width: 88%;
+    }
+    .footer-item:nth-child(2) p {
+        width: 70%;
+    }
+    .download-icon {
+        flex: 0 0 48%;
+        max-width: 48%;
+    }
+    .download-text {
+        flex: 0 0 48%;
+        max-width: 48%;
+    }
+    #icon-1{
+        padding-top: 6px;
+    }
+    .contact-icon i {
+        font-size: 17px;
+    }
+    .contact-text h4 {
+        font-size: 15px;
+    }
+    .contact-text {
+        flex: 0 0 89%;
+        max-width: 89%;
+    }
+    .contact-row {
+        width: 100%;
+    }
+    .footer-item h3::after{
+        width: 97%;
+    }
+    .sub-footer h3 {
+        font-size: 11px;
+    }
+    footer .my-row{
+        margin-bottom: 0;
+    }
+}
+
+@media only screen and (max-width:360px){
+    .logo {
+        padding-top: 5px;
+    }
+    .logo img{
+        width: 130px;
+    }
+    .banner-text-1 h2 {
+        font-size: 30px;
+    }
+    .banner-text-1 h1 {
+        font-size: 42px;
+    }
+    .banner-text-1 p {
+        font-size: 16px;
+    }
+    .banner-text-item h3 {
+        font-size: 25px;
+    }
+    .banner-text-item h2 {
+        font-size: 28px;
+    }
+    .book-cab .book-cab-header{
+        padding-left: 0;
+    }
+    .book-cab .book-cab-header h4{
+        font-size: 24px;
+    }
+    .book-item:last-child{
+        padding-left: 0;
+    }
+    .book-item:last-child span{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .tariff-taxi {
+        width: 80%;
+        left: 33px;
+        top: -74px;
+    }
+    .toggle-close{
+        margin-right: 25px;
+    }
+    .wish-item{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .wish {
+        background-position: 762px 0;
+    }
+    .download-item h3{
+        font-size: 24px;
+    }
+    .download-item p{
+        font-size: 14px;
+        line-height: 27px;
+        margin-bottom: 38px;
+    }
+    .download-item:first-child img {
+        width: 135px;
+    }
+    .download-item:last-child img {
+        width: 73%;
+        margin-left: 94px;
+    }
+    .download .my-row {
+        margin-top: 40px;
+    }
+    .client-detail h4 {
+        font-size: 14px;
+    }
+    .client-detail h3 {
+        font-size: 17px;
+    }
+    .client-detail {
+        flex: 0 0 53%;
+        max-width: 53%;
+    }
+    .take-your-call h2 {
+        font-size: 40px;
+    }
+    .take-your-call h3 {
+        font-size: 18px;
+    }
+    .footer-item:nth-child(2) p {
+        width: 88%;
+    }
+    .footer-item:first-child p {
+        width: 100%;
+    }
+    .download-row {
+        width: 70%;
+    }
+    .sub-footer h3 {
+        font-size: 11px;
+    }
+    .footer-item{
+        margin-bottom: 95px;
+    }
+    .toggle-nav.active{
+        overflow: scroll;
+    }
+    .sub-footer{
+        background-color: #0a0a0a;
+    }
+}
+
+@media only screen and (max-width:320px){
+    .banner-text-1 h1 {
+        font-size: 37px;
+    }
+    .banner-text-2 .my-row {
+        margin-top: 400px;
+    }
+    .banner-text-item h2 {
+        font-size: 26px;
+    }
+    .tariff-taxi {
+        width: 85%;
+        left: 22px;
+    }
+    .section-heading span {
+        font-size: 33px;
+    }
+    .download-item:last-child img {
+        width: 75%;
+        margin-left: 84px;
+    }
+    .download-item:first-child img {
+        width: 128px;
+        margin-right: 10px;
+    }
+    .download-item p{
+        font-size: 13px;
+    }
+    .download-item h3 {
+        font-size: 20px;
+    }
+    .section-heading {
+        font-size: 28px;
+    }
+    .section-heading span {
+        font-size: 29px;
+    }
+    .client-detail {
+        flex: 0 0 58%;
+        max-width: 58%;
+        margin-left: 12px;
+    }
+    .client-img img {
+        width: 100%;
+    }
+    .take-your-call h2 {
+        font-size: 35px;
+    }
+    .take-your-call h3 {
+        font-size: 16px;
+    }
+    .footer-item h3{
+        font-size: 22px;
+    }
+    .footer-item p{
+        font-size: 14px;
+    }
+    .download-row {
+        width: 82%;
+    }
+    .contact-text{
+        padding-left: 12px;
+    }
+    .sub-footer h3 {
+        font-size: 12px;
+    }
+}
